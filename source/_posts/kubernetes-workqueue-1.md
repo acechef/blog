@@ -1,5 +1,5 @@
 ---
-title: client-go的workqueue——rate-limiter
+title: kubernetes中的限速器
 date: 2022-05-18 15:21:20
 tags: kubernetes
 ---
